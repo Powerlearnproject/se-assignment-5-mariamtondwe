@@ -13,10 +13,10 @@ Answer the following questions based on your understanding of the installation a
    1.Download Visual Studio:
    2.Visit the Visual Studio websiteand click on "Download Visual Studio."
    3.Follow the on-screen instructions to download the installer.
-   4. Run the Installer:
+   4.Run the Installer:
    5.Run the downloaded installer.
    6.Choose the "Visual Studio" workload during installation, which includes the necessary components for general development.
-   7. Select Workloads and Components:
+   7.Select Workloads and Components:
    8.In the Visual Studio Installer, select the workloads and components you need based on your development requirements. Common workloads include ".NET Desktop Development" or "Web Development."
    9.Modify Installation (Optional):
    10.If needed, you can customize the installation by clicking on the "Individual components" tab in the installer and selecting or deselecting specific components.
